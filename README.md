@@ -35,4 +35,9 @@ java --version
 clojure --version
 ```
 
-Käynnistä Clojure CLI komentoriviltä kirjoittamalla komento: clj
+Käynnistä sovellus komentoriviltä:
+```
+clojure -M:run
+```
+
+Ja avaa selaimeen [http://localhost:3000](http://localhost:3000)
