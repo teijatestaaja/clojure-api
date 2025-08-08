@@ -35,9 +35,9 @@ java --version
 clojure --version
 ```
 
-Käynnistä sovellus komentoriviltä:
+Ota git pull tästä reposta ja käynnistä sovellus komentoriviltä:
 ```
 clojure -M:run
 ```
 
-Ja avaa selaimeen [http://localhost:3000](http://localhost:3000)
+Ja avaa selaimeen http://localhost:3000
