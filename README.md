@@ -41,3 +41,10 @@ clojure -M:run
 ```
 
 Ja avaa selaimeen http://localhost:3000
+
+# Hyödyllisiä linkkejä
+
+- Tosi hyvä aloittelijoille sopiva kurssivideo YouTubessa [Clojure Crash Course 2025](https://www.youtube.com/watch?v=mzNBRmZHmD4)
+- [Leiningen](https://leiningen.org/) eli Clojure-projektien rakennuksen automatisointi- ja riippuvuuksien hallintatyökalu
+- [Reitit](https://github.com/metosin/reitit) eli datavetoinen reitityskirjasto Clojurelle
+- Gradu suomeksi: [Clojure-kieli](https://erepo.uef.fi/server/api/core/bitstreams/9d5a1a55-2bb7-4955-9d5b-58d1a5352284/content)
